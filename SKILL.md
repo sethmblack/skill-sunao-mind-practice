@@ -3,8 +3,9 @@ name: sunao-mind-practice
 description: Clear bias, preconceptions, and ego from decision-making. Approach problems with the "untrapped mind" that is open enough to see possibilities, humble enough to learn from anyone, perceptive enough...
 license: MIT
 metadata:
-  version: 1.0.1
   author: sethmblack
+  version: 1.0.5104
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - sunao-mind-practice
 - writing
